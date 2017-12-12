@@ -1,0 +1,16 @@
+WELCOME TO THIS PROJECT,
+In order to edit run the following command in 2 different terminal:
+
+1. npm run compile:sass
+2. live-server 
+
+-----------
+After that open the project with your editor and start edit:
+READY TO GO!
+-----------
+
+Commit changes:
+1. git status
+2. git add .
+3. git commit -m 'new-commit'
+4. git push

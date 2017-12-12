@@ -1,0 +1,29 @@
+{
+  "name": "i-am-frederico-alves",
+  "version": "1.0.0",
+  "description": "I Am Frederico Alves 2018",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericoAlvesJS/I-Am-Frederico-Alves.git"
+  },
+  "keywords": [
+    "homepage",
+    "frederico",
+    "alves",
+    "2018"
+  ],
+  "author": "Frederico Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericoAlvesJS/I-Am-Frederico-Alves/issues"
+  },
+  "homepage": "https://github.com/fredericoAlvesJS/I-Am-Frederico-Alves#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "node-sass": "^4.7.2"
+  }
+}
